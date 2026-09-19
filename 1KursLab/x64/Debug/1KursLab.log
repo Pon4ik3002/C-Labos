@@ -1,0 +1,4 @@
+﻿  1KursLab.cpp
+C:\Users\user\source\repos\1KursLab\1KursLab\1KursLab.cpp(57,13): warning C4129: "F": нераспознанная escape-последовательность символов
+C:\Users\user\source\repos\1KursLab\1KursLab\1KursLab.cpp(58,13): warning C4129: "S": нераспознанная escape-последовательность символов
+  1KursLab.vcxproj -> C:\Users\user\source\repos\1KursLab\x64\Debug\1KursLab.exe
