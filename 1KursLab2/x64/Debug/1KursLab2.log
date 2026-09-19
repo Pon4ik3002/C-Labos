@@ -1,0 +1,4 @@
+﻿  1KursLab2.cpp
+C:\Users\user\source\repos\1KursLab2\1KursLab2\1KursLab2.cpp(24,31): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\source\repos\1KursLab2\1KursLab2\1KursLab2.cpp(30,21): warning C4305: аргумент: усечение из "double" в "float"
+  1KursLab2.vcxproj -> C:\Users\user\source\repos\1KursLab2\x64\Debug\1KursLab2.exe
