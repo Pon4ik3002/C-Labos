@@ -1,0 +1,5 @@
+﻿  1kursLaba4.cpp
+  Drob.cpp
+C:\Users\user\source\repos\1kursLaba4\1kursLaba4\Drob.cpp(69,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  1kursLaba4.vcxproj -> C:\Users\user\source\repos\1kursLaba4\x64\Debug\1kursLaba4.exe
