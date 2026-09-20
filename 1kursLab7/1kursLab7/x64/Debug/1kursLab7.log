@@ -1,0 +1,5 @@
+﻿  1kursLab7.cpp
+  Time.cpp
+  Создание кода...
+C:\Users\user\source\repos\1kursLab7\1kursLab7\Vector.h(81,1): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  1kursLab7.vcxproj -> C:\Users\user\source\repos\1kursLab7\x64\Debug\1kursLab7.exe
