@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\1KursLabos9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|solutionrelative:1KursLabos9\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|solutionrelative:1KursLabos9\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\1KursLabos9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|solutionrelative:1KursLabos9\\1KursLabos9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C28F0EF4-FA25-4A0F-8FDE-5F7A78029BA9}|1KursLabos9\\1KursLabos9.vcxproj|solutionrelative:1KursLabos9\\error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T07:09:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "error.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\error.h",
+              "RelativeDocumentMoniker": "1KursLabos9\\error.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\error.h",
+              "RelativeToolTip": "1KursLabos9\\error.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-03T04:30:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\Vector.cpp",
+              "RelativeDocumentMoniker": "1KursLabos9\\Vector.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\Vector.cpp",
+              "RelativeToolTip": "1KursLabos9\\Vector.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T13:19:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\Vector.h",
+              "RelativeDocumentMoniker": "1KursLabos9\\Vector.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\Vector.h",
+              "RelativeToolTip": "1KursLabos9\\Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-27T13:05:09.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1KursLabos9.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\1KursLabos9.cpp",
+              "RelativeDocumentMoniker": "1KursLabos9\\1KursLabos9.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLabos9\\1KursLabos9\\1KursLabos9.cpp",
+              "RelativeToolTip": "1KursLabos9\\1KursLabos9.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T13:02:59.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
