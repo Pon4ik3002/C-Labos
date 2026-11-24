@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\1KursLaba8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Dialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Dialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A547B6-4574-4E6F-85AA-B54B115C5EF7}|1KursLaba8\\1KursLaba8.vcxproj|solutionrelative:1KursLaba8\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Persona.cpp",
+              "RelativeDocumentMoniker": "1KursLaba8\\Persona.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Persona.cpp",
+              "RelativeToolTip": "1KursLaba8\\Persona.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwCoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T01:32:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Persona.h",
+              "RelativeDocumentMoniker": "1KursLaba8\\Persona.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Persona.h",
+              "RelativeToolTip": "1KursLaba8\\Persona.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-22T01:31:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Vector.cpp",
+              "RelativeDocumentMoniker": "1KursLaba8\\Vector.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Vector.cpp",
+              "RelativeToolTip": "1KursLaba8\\Vector.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T01:25:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Vector.h",
+              "RelativeDocumentMoniker": "1KursLaba8\\Vector.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Vector.h",
+              "RelativeToolTip": "1KursLaba8\\Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T23:53:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Object.h",
+              "RelativeDocumentMoniker": "1KursLaba8\\Object.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Object.h",
+              "RelativeToolTip": "1KursLaba8\\Object.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-22T01:29:45.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Event.h",
+              "RelativeDocumentMoniker": "1KursLaba8\\Event.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Event.h",
+              "RelativeToolTip": "1KursLaba8\\Event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-22T00:34:51.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dialog.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Dialog.h",
+              "RelativeDocumentMoniker": "1KursLaba8\\Dialog.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Dialog.h",
+              "RelativeToolTip": "1KursLaba8\\Dialog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T23:52:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dialog.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Dialog.cpp",
+              "RelativeDocumentMoniker": "1KursLaba8\\Dialog.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\1KursLaba8\\1KursLaba8\\Dialog.cpp",
+              "RelativeToolTip": "1KursLaba8\\Dialog.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T23:49:52.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
